@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haider Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="end" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  alt="Animated Coding" />
+<img align="flex-end" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  alt="Animated Coding" />
 - 🔭 I’m currently working on **Youtube Clone**
 
 - 🌱 I’m currently learning **Reactjs**
