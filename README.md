@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haider Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src"https://camo.githubusercontent.com/e260e183219eaaa41785a3ff8e19fd2bc271cfd2c1073b2d51168f0a76446a1d/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d63686f636b2d636f64696e672d6337386636656c6a333273666f6938712e77656270">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderraza185&label=Profile%20views&color=0e75b6&style=flat" alt="haiderraza185" /> </p>
 
 - 🔭 I’m currently working on **Youtube Clone**
