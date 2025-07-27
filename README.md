@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider Raza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="right">A passionate frontend developer from Pakistan</h3>
 <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Animated Coding" />
 - 🔭 I’m currently working on **Youtube Clone**
 
