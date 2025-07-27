@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haider Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderraza185&label=Profile%20views&color=0e75b6&style=flat" alt="haiderraza185" /> </p>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 - 🔭 I’m currently working on **Youtube Clone**
 
 - 🌱 I’m currently learning **Reactjs**
