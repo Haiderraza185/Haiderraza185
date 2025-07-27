@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://6883f23514844031802c96cd--haiderrazaportfoliowebsite.netlify.app/](https://6883f23514844031802c96cd--haiderrazaportfoliowebsite.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Haiderraza185](https://github.com/Haiderraza185)
 
 - 💬 Ask me about **react**
 
