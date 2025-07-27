@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Haiderraza185](https://github.com/Haiderraza185)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **razakhokher269@gmail.com**
 
