@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Haiderraza185/Haiderraza185/refs/heads/main/banner.png" alt="Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Haider Raza</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" />
